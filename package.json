@@ -4,7 +4,8 @@
   "description": "For when you need a dad joke to brighten up your day",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Santiago Pinto",
   "license": "ISC",
